@@ -1,9 +1,10 @@
 #EXTM3U
-#EXTINF:-1,SW: CORONA VIRUS INFO
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/77807
 #EXTINF:-1,SW: SVT 1
 https://svt-live-a.secure.footprint.net/se/svt1/master.m3u8
 #EXTINF:-1,SW: SVT 2
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/77809
-#EXTINF:-1,SW: TV3
-http://91.208.115.170:25461/RsBQbsndPvzzwu4/HeRmxnlzde4vFZf/77810
+https://svt-live-a.secure.footprint.net/se/svt2/master.m3u8
+#EXTINF:-1,SW: SVT Barn
+https://svt-live-a.secure.footprint.net/se/svtb/master.m3u8
+#EXTINF:-1,SW: Kunskapskanalen
+https://svt-live-a.secure.footprint.net/se/svtk/master.m3u8
+
