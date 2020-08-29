@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1,SW: SVT 1
+#EXTINF:-1,SVT 1
 https://svt-live-a.secure.footprint.net/se/svt1/master.m3u8
-#EXTINF:-1,SW: SVT 2
+#EXTINF:-1,SVT 2
 https://svt-live-a.secure.footprint.net/se/svt2/master.m3u8
-#EXTINF:-1,SW: SVT Barn
+#EXTINF:-1,SVT Barn
 https://svt-live-a.secure.footprint.net/se/svtb/master.m3u8
-#EXTINF:-1,SW: Kunskapskanalen
+#EXTINF:-1,Kunskapskanalen
 https://svt-live-a.secure.footprint.net/se/svtk/master.m3u8
 
